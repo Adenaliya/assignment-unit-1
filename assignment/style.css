@@ -1,13 +1,33 @@
 /* Add a background color to the header element */
+header {
+    text-align: initial ;
+    font-size: larger;
+    text-decoration: underline;
+    background-color: #c69c41 ;
+    font-family: fantasy; }
 
 /* Add a fun background color to the main element */
-
+/*https://www.w3schools.com/css/css_border_width.asp*/
+main {
+    background-color: rgba(227, 191, 61, 0.636);
+    border-style: solid;
+    border-width: medium;}
 /* Align the h1 containing your name in the center of the header*/
-
+header {text-align: center;}
 /* Make your p tag a different color and italic */
 
 /* Put a border around your image */
+img {
+    border:8px solid;
+    border-color :rgb(97, 71, 36);}
+    
 
-/* Change the font-family of your list */
+/* Change the font-family of your list
+-line 7 of js file */
 
 /* Add a background color to the footer element */
+footer 
+ {background-color: rgb(84, 66, 39);}
+ <p 
+ {background-color: rgb(126, 83, 17);  p/>}
+  /* emoji--https www.w3schools.com/html/html_emojis.asp */ 
